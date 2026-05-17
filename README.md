@@ -1,5 +1,9 @@
 # part-2-cnn-computer-vision
 Computer Vision Problem Formulation and CNN Prototype
+
+# Data source
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 # Approach
 
 The objective of this project is to build a CNN-based computer vision model capable of classifying images into four categories - 
